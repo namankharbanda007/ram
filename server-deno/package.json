@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "ts-node": "^10.9.2"
+  },
+  "scripts": {
+  "start": "ts-node -r dotenv/config main.ts"
+}
+}
